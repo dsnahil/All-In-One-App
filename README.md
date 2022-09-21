@@ -16,3 +16,4 @@ What is Intent? Write down types of Intent and types of Intent Action. Create an
 
 7. Open Camera
 
+![mad 1](https://user-images.githubusercontent.com/92240128/191520571-e3439844-c520-4854-9025-783dbf966647.jpeg)
